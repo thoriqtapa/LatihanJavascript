@@ -1,3 +1,1 @@
-"# LatihanJavascript" 
-"# LatihanJavascript" 
-"# LatihanJavascript" 
+"ini File pertama saya di Git hub"
